@@ -73,4 +73,3 @@ limit 5;
 select  count( distinct customer_id),category from retail_sales
 group by category;
 
---q=10 
